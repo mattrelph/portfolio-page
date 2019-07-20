@@ -1,0 +1,69 @@
+body {
+  background: white ;
+  color: black;
+  font-family: "Courier", "monospace";
+  padding-top: 65px; 
+}
+
+.filler {
+  background-color: CadetBlue; 
+  height: 100%;
+}
+
+.hilight {
+  background-color: Maroon; 
+  height: 100%;
+}
+
+.white-text{
+  color: white;
+}
+
+.bigicon{
+  color: white;
+  font-size: 4em;
+  
+}
+
+.bigicon:hover{
+  color: black;
+  font-size: 3.75em;
+  
+}
+
+.portfolio{
+  padding: 10px;
+  background-color: PowderBlue;
+}
+
+.section {
+  margin-top: 50px;
+}
+
+.vertical-align {
+  margin: 10px;
+}
+
+#samples {
+  margin-top: 15px;
+}
+
+#contact {
+  margin-bottom: 300px;
+}
+
+#menubar {
+  background: DarkGreen;
+}
+
+#intro {
+  font-size: 1.25em;
+}
+
+#photo{
+  height: 100%;
+}
+
+.img-thumbnail:hover{
+   transform: scale(1.1);
+}
